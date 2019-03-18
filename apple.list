@@ -1,9 +1,21 @@
-DOMAIN-SUFFIX,aaplimg.com
+DOMAIN,guzzoni.apple.com // Siri
+DOMAIN-KEYWORD,fmfmobile
+DOMAIN-SUFFIX,apple.cnc.ccgslb.com.cn
+DOMAIN-SUFFIX,apple.com.akadns.net
+DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
-DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,thinkdifferent.us
+DOMAIN-SUFFIX,itools.info
+DOMAIN-SUFFIX,ibook.info
+DOMAIN-SUFFIX,aiport.us
+PROCESS-NAME,storedownloadd // Mac App Store
+USER-AGENT,com.apple.appstored* // iOS App Store
