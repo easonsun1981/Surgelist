@@ -22,3 +22,10 @@ DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,api.smoot.apple.cn
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,audio.itunes.apple.com
+DOMAIN,audio-ssl.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
