@@ -61,21 +61,6 @@ DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,urlload.net
 
-# HBO && HBO Go
-USER-AGENT,HBO%20NOW*
-DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hboasia.com
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbogoasia.hk
-
-# Hulu
-USER-AGENT,Hulu*
-DOMAIN-SUFFIX,happyon.jp
-DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,huluim.com
-DOMAIN-SUFFIX,hulustream.com
-
 # Imkan
 DOMAIN-SUFFIX,imkan.tv
 
@@ -83,23 +68,6 @@ DOMAIN-SUFFIX,imkan.tv
 USER-AGENT,WeMusic*
 USER-AGENT,JOOX*
 DOMAIN-SUFFIX,joox.com
-
-# MytvSUPER
-USER-AGENT,mytv*
-DOMAIN-KEYWORD,nowtv100
-DOMAIN-KEYWORD,rthklive
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
-
-# Netflix
-USER-AGENT,Argo*
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxvideo.net
 
 # Pandora
 DOMAIN-SUFFIX,pandora.com
