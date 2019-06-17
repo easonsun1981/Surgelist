@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,outlook.com
+
+# Sublime
+DOMAIN-SUFFIX,sublimetext.com
