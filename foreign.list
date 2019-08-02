@@ -10,7 +10,6 @@ PROCESS-NAME,Twitter
 PROCESS-NAME,Twitterrific
 PROCESS-NAME,Microsoft AutoUpdate
 PROCESS-NAME,Microsoft AU Daemon
-PROCESS-NAME,Microsoft Edge Helper
 
 # Microsoft
 USER-AGENT,OneDrive*
